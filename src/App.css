@@ -1,0 +1,21 @@
+.header {
+  text-align: center;
+}
+.bg {
+  position: fixed;
+  z-index: -1;
+  min-width: 100%;
+  min-height: 100%;
+  top: 0px;
+  left: 0px;
+}
+.Birds {
+  position: fixed;
+  z-index: 1;
+
+  top: 300px;
+  right: 100px;
+}
+.nav {
+  z-index: 3;
+}
